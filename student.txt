@@ -1,0 +1,2 @@
+Total no of student is 5
+out of that 5 has been passed
